@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 30px;
+  background-color: #FFF5E9;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #55445C;
+  font-size: 34px;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #8A7888;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+#canvas-holder {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
